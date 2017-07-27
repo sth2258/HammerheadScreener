@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelPlanner", "TravelPlanner\TravelPlanner.csproj", "{B2D7B1BF-96E0-47E1-A86E-BA1DE045982F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HammerheadScreenerUnitTests", "HammerheadScreenerUnitTests\HammerheadScreenerUnitTests.csproj", "{978C3496-B31B-4B1D-BCDA-E2B03334C09C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenerLib", "ScreenerLib\ScreenerLib.csproj", "{D31EBBD6-6132-48C5-BFF3-D08798D28FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2D7B1BF-96E0-47E1-A86E-BA1DE045982F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D7B1BF-96E0-47E1-A86E-BA1DE045982F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D7B1BF-96E0-47E1-A86E-BA1DE045982F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D7B1BF-96E0-47E1-A86E-BA1DE045982F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{978C3496-B31B-4B1D-BCDA-E2B03334C09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978C3496-B31B-4B1D-BCDA-E2B03334C09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978C3496-B31B-4B1D-BCDA-E2B03334C09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978C3496-B31B-4B1D-BCDA-E2B03334C09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D31EBBD6-6132-48C5-BFF3-D08798D28FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D31EBBD6-6132-48C5-BFF3-D08798D28FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D31EBBD6-6132-48C5-BFF3-D08798D28FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D31EBBD6-6132-48C5-BFF3-D08798D28FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
